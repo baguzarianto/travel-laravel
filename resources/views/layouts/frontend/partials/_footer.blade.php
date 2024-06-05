@@ -15,7 +15,7 @@
                     <div class="col-12 col-lg-6 mb-4">
                         <h5 class="font-weight-bold">GET CONNECTED</h5>
                         <ul class="list-unstyled">
-                            <li>Jakarta Barat</li>
+                            <li>Yogyakarta</li>
                             <li>Indonesia</li>
                             <li>0812-3456-7890</li>
                             <li>info@relaxarc.com</li>

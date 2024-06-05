@@ -71,7 +71,7 @@
                     <div class="card-travel text-center d-flex flex-column"
                         style="background-image: url('{{ asset('assets/frontend/images/travel/original/pop1.jpg') }}');">
                         <div class="travel-text py-2">
-                            <div class="travel-country">DEFAULT</div>
+                            <div class="travel-country">Kaliurang</div>
                             <div class="travel-location">DEFAULT</div>
                         </div>
                         <div class="travel-button mt-auto">
@@ -114,7 +114,7 @@
                         <div class="testimonial-content">
                             <img src="{{ asset('assets/frontend/images/profile.jpg') }}" alt="user"
                                 class="mb-4 rounded-circle img-fluid">
-                            <h3 class="mb-4">Fery Leonardo</h3>
+                            <h3 class="mb-4">Aku Ganteng</h3>
                             <p class="testimonial">
                                 " It was glorius and I could not stop to say wohooo for every single moment Dankeee
                                 "
@@ -131,7 +131,6 @@
             @guest
             <div class="row">
                 <div class="col-12 text-center mt-5">
-                    <a href="{{ route('contact') }}" class="btn btn-need-help px-4 mx-4 my-3">Butuh Bantuan</a>
                     <a href="{{ route('login') }}" class="btn btn-get-started px-4 mx-4">Mulai Perjalanan</a>
                 </div>
             </div>
